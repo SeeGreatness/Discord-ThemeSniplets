@@ -1,0 +1,31 @@
+/*
+* Classic Embeds for Discord
+* Drop into your theme and go
+* By Flex (LUModder)
+*/
+
+.embed .embed-author-icon {
+	width:16px;
+	height:16px;
+	margin-right:4px;
+}
+
+.embed .embed-footer-icon {
+	width:16px;
+	height:16px;
+	margin-right:4px;
+}
+
+.embed-wrapper .embed-color-pill {
+	border-radius: 0 0 0 0;
+	width: 6px;
+}
+
+.theme-dark .message-group .embed {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.embed .embed-author-icon {
+	border-radius: 0;
+}
